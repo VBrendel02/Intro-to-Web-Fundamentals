@@ -1,0 +1,42 @@
+.container{
+    background-color: lightgray;
+    text-align: center;
+}
+
+.h1{
+    justify-content: center;
+}
+
+.first{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px;
+    height: 200px;
+
+}
+
+.second{
+    background-color: plum;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px;
+    height: 200px;
+
+}
+
+.third{
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px;
+    height: 200px;
+
+}
+
+.bottomLink{
+    text-align: center;
+}
